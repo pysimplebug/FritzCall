@@ -5,7 +5,7 @@ import socket
 from fritzconnection.lib.fritzphonebook import FritzPhonebook
 
 '''
-    Notification Window Demo Program
+    Notification Window FritzCall Program
     Shamelessly stolen from PySimpleGUI user ncotrb
     Modified by pysimplebug to be FritzCall :-)
     Displays a small informational window with an Icon and the call data in the lower right corner of the display
